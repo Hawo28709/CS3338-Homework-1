@@ -1,0 +1,62 @@
+commit d7ddaf108713b9a3604d91ab9f5876433ed83d12
+Merge: f37cdce d7bd0fd
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Fri Sep 12 21:36:25 2025 -0700
+
+    Merge pull request #1 from Hawo28709/feature-about-me
+    
+    Feature about me my favorite food and hobby
+
+commit d7bd0fd92c59550084c670b3059caa801d051365
+Merge: 3af0f49 f37cdce
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Fri Sep 12 21:36:03 2025 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 3af0f497ed31b505fb9aab7fdb0f14b8c73aa794
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Fri Sep 12 21:34:15 2025 -0700
+
+    Updated index file to include things about me
+    
+    Index file now have my favorite food and hobby added into it
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
